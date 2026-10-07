@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ai-investment-advisor.local/schemas/sentiment.request.json",
+  "title": "SentimentRequest",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["text"],
+  "properties": {
+    "text": {
+      "type": "string",
+      "minLength": 1,
+      "description": "News headline or article text to classify."
+    },
+    "ticker": {
+      "type": ["string", "null"],
+      "description": "Optional instrument ticker related to the text."
+    },
+    "published_at": {
+      "type": ["string", "null"],
+      "format": "date-time",
+      "description": "Optional publication timestamp (ISO-8601)."
+    }
+  }
+}

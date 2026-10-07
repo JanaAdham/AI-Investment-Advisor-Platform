@@ -1,0 +1,43 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ai-investment-advisor.local/schemas/risk.response.json",
+  "title": "RiskResponse",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "ticker",
+    "risk_score",
+    "risk_level",
+    "contributing_factors",
+    "confidence",
+    "explanation",
+    "disclaimer",
+    "model_version"
+  ],
+  "properties": {
+    "ticker": { "type": "string" },
+    "risk_score": { "type": "number", "minimum": 0, "maximum": 100 },
+    "risk_level": {
+      "type": "string",
+      "enum": ["low", "medium", "high"]
+    },
+    "contributing_factors": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["name", "value", "contribution", "direction"],
+        "properties": {
+          "name": { "type": "string" },
+          "value": { "type": "number" },
+          "contribution": { "type": "number" },
+          "direction": { "type": "string" }
+        }
+      }
+    },
+    "confidence": { "type": "number", "minimum": 0, "maximum": 1 },
+    "explanation": { "type": "string" },
+    "disclaimer": { "type": "string" },
+    "model_version": { "type": "string" }
+  }
+}

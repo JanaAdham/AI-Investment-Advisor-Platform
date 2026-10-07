@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ai-investment-advisor.local/schemas/anomaly.response.json",
+  "title": "AnomalyResponse",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "ticker",
+    "is_anomaly",
+    "severity",
+    "observed_return",
+    "z_score",
+    "threshold",
+    "explanation",
+    "disclaimer",
+    "model_version"
+  ],
+  "properties": {
+    "ticker": { "type": "string" },
+    "is_anomaly": { "type": "boolean" },
+    "severity": {
+      "type": "string",
+      "enum": ["none", "watch", "alert"]
+    },
+    "observed_return": { "type": "number" },
+    "z_score": { "type": "number" },
+    "threshold": { "type": "number" },
+    "explanation": { "type": "string" },
+    "disclaimer": { "type": "string" },
+    "model_version": { "type": "string" }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ai-investment-advisor.local/schemas/forecast.request.json",
+  "title": "ForecastRequest",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["ticker", "horizon_days"],
+  "properties": {
+    "ticker": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Instrument ticker to forecast."
+    },
+    "horizon_days": {
+      "type": "integer",
+      "enum": [1, 5],
+      "description": "Forecast horizon in trading days."
+    },
+    "as_of": {
+      "type": ["string", "null"],
+      "format": "date",
+      "description": "Optional as-of date (YYYY-MM-DD)."
+    }
+  }
+}

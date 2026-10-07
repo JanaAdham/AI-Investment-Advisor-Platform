@@ -1,0 +1,44 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ai-investment-advisor.local/schemas/forecast.response.json",
+  "title": "ForecastResponse",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "ticker",
+    "target",
+    "horizon_days",
+    "point_forecast",
+    "interval",
+    "method",
+    "explanation",
+    "disclaimer",
+    "model_version"
+  ],
+  "properties": {
+    "ticker": { "type": "string" },
+    "target": {
+      "type": "string",
+      "const": "return"
+    },
+    "horizon_days": {
+      "type": "integer",
+      "enum": [1, 5]
+    },
+    "point_forecast": { "type": "number" },
+    "interval": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["lower", "upper", "confidence_level"],
+      "properties": {
+        "lower": { "type": "number" },
+        "upper": { "type": "number" },
+        "confidence_level": { "type": "number", "minimum": 0, "maximum": 1 }
+      }
+    },
+    "method": { "type": "string" },
+    "explanation": { "type": "string" },
+    "disclaimer": { "type": "string" },
+    "model_version": { "type": "string" }
+  }
+}

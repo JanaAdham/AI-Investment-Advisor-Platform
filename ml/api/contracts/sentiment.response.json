@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ai-investment-advisor.local/schemas/sentiment.response.json",
+  "title": "SentimentResponse",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "label",
+    "probabilities",
+    "confidence",
+    "explanation",
+    "disclaimer",
+    "model_version"
+  ],
+  "properties": {
+    "label": {
+      "type": "string",
+      "enum": ["positive", "neutral", "negative"]
+    },
+    "probabilities": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["positive", "neutral", "negative"],
+      "properties": {
+        "positive": { "type": "number", "minimum": 0, "maximum": 1 },
+        "neutral": { "type": "number", "minimum": 0, "maximum": 1 },
+        "negative": { "type": "number", "minimum": 0, "maximum": 1 }
+      }
+    },
+    "confidence": { "type": "number", "minimum": 0, "maximum": 1 },
+    "explanation": { "type": "string" },
+    "disclaimer": { "type": "string" },
+    "model_version": { "type": "string" }
+  }
+}
