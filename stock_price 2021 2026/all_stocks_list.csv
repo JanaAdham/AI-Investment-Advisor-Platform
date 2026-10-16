@@ -1,0 +1,237 @@
+country,name,full_name,isin,currency,symbol
+egypt,Arab Cotton Ginning,Arab Cotton Ginning,EGS32221C011,EGP,ACGC
+egypt,AJWA Food Industries,AJWA for Food Industries company,EGS30211C014,EGP,AJWA
+egypt,APSW,Unirab Polvara Spinning&Weaving Co,EGS32331C018,EGP,APSW
+egypt,Citadel Capital - CS,Citadel Capital - Common Shares,EGS73541C012,EGP,CCAP
+egypt,Commercial Int Bank,Commercial International Bank,EGS60121C018,EGP,COMI
+egypt,EDBM,Egyptian for Developing Materials,EGS23141C012,EGP,EDBM
+egypt,Egyptian Tourism Resorts,Egyptian for Tourism Resorts,EGS70431C019,EGP,EGTS
+egypt,Egyptian Kuwaiti Hld,Egyptian Kuwaiti Holding,EGS69082C013,USD,EKHO
+egypt,Electro Cable,Electro Cable Egypt,EGS3G231C011,EGP,ELEC
+egypt,El Kahera Housing,El Kahera Housing,EGS65071C010,EGP,ELKA
+egypt,Egypt for Poultry,Egypt for Poultry,EGS02211C018,EGP,EPCO
+egypt,Ezz Steel,Ezz Steel,EGS3C251C013,EGP,ESRS
+egypt,Telecom Egypt,Telecom Egypt,EGS48031C016,EGP,ETEL
+egypt,Hermes Holding Co,Egyptian Financial Group-Hermes Hld,EGS69101C011,EGP,HRHO
+egypt,Maridive & oil Svcs,Maridive & oil services,EGS44012C010,USD,MOIL
+egypt,Egyptian Media Production City,Egyptian Media Production City,EGS78021C010,EGP,MPRC
+egypt,National co maize products,National company for maize products,EGS30761C026,EGP,NCMP
+egypt,National RE Bank,National Real Estate Bank,EGS65511C015,EGP,NRPD
+egypt,SODIC,Six of October Development & Invest,EGS65851C015,EGP,OCDI
+egypt,Global Telecom,Global Telecom Holding SAE,EGS74081C018,EGP,GTHE
+egypt,Palm Hills Develop,Palm Hills Development Company,EGS655L1C012,EGP,PHDC
+egypt,Pioneers Holding,Pioneers Holding,EGS691L1C018,EGP,PIOH
+egypt,RTVC,Remco Touristic Villages Constr,EGS70271C019,EGP,RTVC
+egypt,Sidi Kerir,Sidi Kerir Petrochemicals,EGS380S1C017,EGP,SKPC
+egypt,South Valley Cement,South Valley Cement,EGS3C351C011,EGP,SVCE
+egypt,El Sewedy Electric,El Sewedy Electric Co SAE,EGS3G0Z1C014,EGP,SWDY
+egypt,T M G Holding,T M G Holding,EGS691S1C011,EGP,TMGH
+egypt,El Saeed Contracting & RE Inv,El Saeed Contracting & Real Estate Investment,EGS21531C016,EGP,UEGC
+egypt,ODIN Investments SAE,ODIN Investments SAE,EGS67181C015,EGP,ODIN
+egypt,Acrow Misr,Acrow Misr,EGS3E071C013,EGP,ACRO
+egypt,El Ahli Inv&Develop,El Ahli Investment and Development,EGS69021C011,EGP,AFDI
+egypt,Assiut Islamic Trading,Assiut Islamic Trading,EGS50091C015,EGP,AITG
+egypt,Egyptian RE Group,Egyptian Real Estate Group,EGS65211C012,EGP,AREH
+egypt,Ascom,Asek Company for Mining - Ascom,EGS10001C013,EGP,ASCM
+egypt,GB AUTO,GB AUTO,EGS673T1C012,EGP,AUTO
+egypt,Gulf Canadian RE Inv Co,Gulf Canadian RE Investment Co.,EGS651B1C018,EGP,CCRS
+egypt,Middle Egypt Flour Mills,Middle Egypt Flour Mills,EGS30401C011,EGP,CEFM
+egypt,Cairo Oils & Soap,Cairo Oils & Soap,EGS30581C010,EGP,COSG
+egypt,Canal Shipping Agencies,Canal Shipping Agencies,EGS44031C010,EGP,CSAG
+egypt,DAPH,Development&Engineering Consultants,EGS65081C019,EGP,DAPH
+egypt,Delta Construction&Rebuilding,Delta Construction & Rebuilding,EGS21451C017,EGP,DCRC
+egypt,Delta Printing&Packaging,Delta For Printing & Packaging,EGS370W1C013,EGP,DTPP
+egypt,Al Ezz,Al Ezz Ceramic & Porcelain,EGS3C071C015,EGP,ECAP
+egypt,Egyptian Financial&Industrial,Egyptian Financial & Industrial,EGS38381C017,EGP,EFIC
+egypt,Egyptians Housing Develop,Egyptians Housing Development,EGS65341C017,EGP,EHDR
+egypt,El Nasr Agricultural Crops,El Nasr Agricultural Crops,EGS300L1C011,EGP,ELNA
+egypt,El Shams,El Shams Housing & Urbanization,EGS65091C018,EGP,ELSH
+egypt,Industrial Engineering,Industrial Engineering Co,EGS3F021C017,EGP,ENGC
+egypt,Egyptian Transport & Commercial Services,Egyptian Transport & Commercial Services Co SAE,EGS42051C010,EGP,ETRS
+egypt,Giza General Contracting,Giza General Contracting,EGS21541C015,EGP,GGCC
+egypt,GIHD,Gharbia Islamic Housing Development,EGS65461C013,EGP,GIHD
+egypt,GMC Group,GMC Group Industrial Commercial,EGS46051C016,EGP,GMCI
+egypt,Grand Invest Capital,Grand Investment Capital,EGS69261C013,EGP,GRCA
+egypt,Housing&Develop Bank,Housing & Development Bank,EGS60301C016,EGP,HDBK
+egypt,Heliopolis Housing,Heliopolis Housing,EGS65591C017,EGP,HELI
+egypt,Int Co Invest&Development,International Co Invest&Development,EGS67191C014,EGP,ICID
+egypt,Int Agricultural Products,International Agricultural Products,EGS07061C012,EGP,IFAP
+egypt,Egyptian Iron&Steel,Egyptian Iron & Steel,EGS3D061C015,EGP,IRON
+egypt,Ismailia Misr Poultry,Ismailia Misr Poultry,EGS02021C011,EGP,ISMA
+egypt,El Nasr Clothing & Textiles,El Nasr Clothing & Textiles,EGS33061C010,EGP,KABO
+egypt,Lecico Egypt,Lecico Egypt,EGS3C161C014,EGP,LCSW
+egypt,Mena Touristic&RE,Mena Touristic & Real Estate Invest,EGS65441C015,EGP,MENA
+egypt,Misr Chemical Industries,Misr Chemical Industries,EGS38211C016,EGP,MICH
+egypt,Medinet Nasr Housing,Medinet Nasr Housing,EGS65571C019,EGP,MNHD
+egypt,Misr Oils & Soap,Misr Oils & Soap,EGS38421C011,EGP,MOSC
+egypt,Mansourah Poultry,Mansourah Poultry,EGS02091C014,EGP,MPCO
+egypt,Naeem Holding,Naeem Holding,EGS69182C011,USD,NAHO
+egypt,Nasr Co. for Civil Works,Nasr Company for Civil Works,EGS23111C015,EGP,NCCW
+egypt,Northern Upper Egypt Develop,Northern Upper Egypt Development,EGS52041C018,EGP,NEDA
+egypt,Nozha Int Hospital,Nozha International Hospital,EGS72011C017,EGP,NINH
+egypt,Oriental Weavers,Oriental Weavers,EGS33041C012,EGP,ORWE
+egypt,Cairo Poultry,Cairo Poultry,EGS02051C018,EGP,POUL
+egypt,Ceramic&Porcelain,Ceramic & Porcelain,EGS3C111C019,EGP,PRCL
+egypt,Rakta Paper,Rakta Paper Manufacturing,EGS36021C011,EGP,RAKT
+egypt,Raya Holding,Raya Holding for Financial Investment SAE,EGS690C1C010,EGP,RAYA
+egypt,Rowad Tourism,Rowad Tourism Co SAE,EGS70281C018,EGP,ROTO
+egypt,Rubex Plastics,Rubex Plastics,EGS3A221C018,EGP,RUBX
+egypt,Al Baraka Bank,Al Baraka Bank Egypt,EGS60101C010,EGP,SAUD
+egypt,Paper Middle East,Paper Middle East SAE,EGS36091C014,EGP,SIMO
+egypt,Samad Misr-EGYFERT,Samad Misr -EGYFERT,EGS51191C012,EGP,SMFR
+egypt,Sharkia National Food,Sharkia National Food,EGS30291C016,EGP,SNFC
+egypt,SPINALEX,Alexandria Spinning & Weaving,EGS32041C013,EGP,SPIN
+egypt,Delta Sugar,Delta Sugar,EGS30201C015,EGP,SUGR
+egypt,TransOceans Tours,TransOceans Tours,EGS79072C012,USD,TRTO
+egypt,United Arab Shipping,United Arab Shipping,EGS47021C018,EGP,UASG
+egypt,Universal Co Packaging,Universal Co Packaging Materials,EGS38161C013,EGP,UNIP
+egypt,United Housing&Develop,United Housing & Development,EGS65061C011,EGP,UNIT
+egypt,Extracted Oils,Extracted Oils,EGS38251C012,EGP,ZEOT
+egypt,Zahraa Maadi,Zahraa Maadi Investment&Development,EGS21171C011,EGP,ZMID
+egypt,Abou Kir Fertilizers,Abou Kir Fertilizers,EGS38191C010,EGP,ABUK
+egypt,Misr Beni Suef Cement,Misr Beni Suef Cement,EGS3C371C019,EGP,MBSC
+egypt,Misr Cement,Misr Cement Co ESC,EGS3C391C017,EGP,MCQE
+egypt,Alexandria Flour Mills,Alexandria Flour Mills,EGS30471C014,EGP,AFMC
+egypt,Misr Duty,Misr Duty Free Shops,EGS53051C016,EGP,MFSC
+egypt,Al Arafa Inv,Al Arafa Investment & Consultancies,EGS672I2C014,USD,AIVC
+egypt,Misr Hotels,Misr Hotels,EGS70081C012,EGP,MHOT
+egypt,Alexandria Mineral Oils,Alexandria Mineral Oils Company,EGS380P1C010,EGP,AMOC
+egypt,North Cairo Mills,North Cairo Mills,EGS30361C017,EGP,MILS
+egypt,Mohandes Insurance,Mohandes Insurance,EGS63041C015,EGP,MOIN
+egypt,Alexandria Pharma,Alexandria Pharmaceuticals,EGS38341C011,EGP,AXPH
+egypt,Glaxo Smith Kline,Glaxo Smith Kline,EGS38171C012,EGP,BIOC
+egypt,Suez Canal Bank,Suez Canal Bank,EGS60231C015,EGP,CANA
+egypt,Credit Agricole Egypt,Credit Agricole Egypt,EGS60041C018,EGP,CIEB
+egypt,Nile Pharma,Nile Pharmaceuticals,EGS38331C012,EGP,NIPH
+egypt,Cairo Pharma,Cairo Pharmaceuticals,EGS38391C016,EGP,CPCI
+egypt,Qatar Natl Bank,Qatar Natl Bank,EGS60081C014,EGP,QNBA
+egypt,Delta Insurance,Delta Insurance,EGS63031C016,EGP,DEIN
+egypt,Eastern Tobacco,Eastern Tobacco,EGS37091C013,EGP,EAST
+egypt,East Delta Flour Mills,East Delta Flour Mills,EGS30351C018,EGP,EDFM
+egypt,Pachin,Paint & Chemicals Industries,EGS38311C014,EGP,PACH
+egypt,Egypt Gas,Natural Gas & Mining Project,EGS39011C019,EGP,EGAS
+egypt,EIPICO,Egyptian International Pharma,EGS38081C013,EGP,PHAR
+egypt,Egyptian Gulf Bank,Egyptian Gulf Bank,EGS60182C010,USD,EGBE
+egypt,Kima,Egyptian Chemical Industries,EGS38201C017,EGP,EGCH
+egypt,Pyramisa Hotels,Pyramisa Hotels,EGS70331C011,EGP,PHTV
+egypt,Prime Holding,Prime Holding,EGS691A1C011,EGP,PRMH
+egypt,SAIB,Societe Arabe Internationale Banque,EGS60142C014,USD,SAIB
+egypt,Egyptian Starch&Glucose,Egyptian Starch & Glucose,EGS30431C018,EGP,ESGI
+egypt,Sinai Cement,Sinai Cement,EGS3C401C014,EGP,SCEM
+egypt,S.Cairo&Giza Mills&Bakeries,South Cairo & Giza Mills & Bakeries,EGS30411C010,EGP,SCFM
+egypt,Saudi Egyptian Inv&Fin,Saudi Egyptian Investment & Finance,EGS67031C012,EGP,SEIG
+egypt,EDBE,Export Development Bank of Egypt,EGS60241C014,EGP,EXPA
+egypt,Faisal Islamic Bank of Egypt,Faisal Islamic Bank of Egypt - EGP,EGS60321C014,EGP,FAIT
+egypt,General Silos&Storage,General Silos & Storage,EGS30441C017,EGP,GSSC
+egypt,Torah Cement,Torah Cement,EGS3C311C015,EGP,TORA
+egypt,Upper Egypt Flour Mills,Upper Egypt Flour Mills,EGS30451C016,EGP,UEFM
+egypt,EL Ezz Aldekhela Steel,EL Ezz Aldekhela Steel - Alexandria,EGS3D041C017,EGP,IRAX
+egypt,Middle&West Delta Flour Mills,Middle & West Delta Flour Mills,EGS30421C019,EGP,WCDF
+egypt,Kafr El Zayat Pesticides,Kafr El Zayat Pesticides,EGS38411C012,EGP,KZPC
+egypt,AALR,General Co Land Recl Devel Reconst,EGS01081C016,EGP,AALR
+egypt,Arab Pharma,Arab Pharmaceuticals,EGS38321C013,EGP,ADCI
+egypt,ARAB DAIRY,The Arab Dairy Products Co.,EGS30221C013,EGP,ADPC
+egypt,Arabia Invest,Arabia Investments Holding SAE,EGS21351C019,EGP,AIH
+egypt,Alexandria Containers&goods,Alexandria Containers and goods,EGS42111C012,EGP,ALCN
+egypt,Alexandria Cement,Alexandria Cement,EGS3H051C012,EGP,ALEX
+egypt,Atlas Land Reclamation,Atlas for Land Reclamation and Agricultural Processing SAE,EGS071L1C018,EGP,AIFI
+egypt,Arab Aluminum,Arab Aluminum,EGS3D031C018,EGP,ALUM
+egypt,Amer Group Holding,Amer Group Holding,EGS675S1C011,EGP,AMER
+egypt,Alexandria Medical Center,Alexandria New Medical Center,EGS72081C010,EGP,AMES
+egypt,Arab Moltaka Invest,Arab Moltaka Investments Co,EGS67221C019,EGP,AMIA
+egypt,Alexandria National Co,Alexandria National Company Fin Inv,EGS67331C016,EGP,ANFI
+egypt,APP,Advanced Pharma Packaging Co.,EGS38461C017,EGP,APPC
+egypt,Arab Valves Co,Arab Valves Company,EGS3E1E1C013,EGP,ARVA
+egypt,Misr National Steel,Misr National Steel SAE,EGS3D0C1C018,EGP,ATQA
+egypt,Belton Financial Hld,Belton Financial Holding,EGS691G1C015,EGP,BTFH
+egypt,Cairo Educational Svcs,Cairo Educational Services,EGS72201C014,EGP,CAED
+egypt,Ceramica Remas,The Arab Ceramic Ceramica Remas,EGS3C151C015,EGP,CERA
+egypt,Cairo Invest RE,Cairo for Investment and Real Estate Development SAE,EGS65541C012,EGP,CIRA
+egypt,Dice Sport&Casual Wear,Dice Sport & Casual Wear,EGS33321C018,EGP,DSCW
+egypt,El Arabia Land Reclamation,El Arabia for Land Reclamation,EGS65771C015,EGP,EALR
+egypt,EASB,Egyptian Arabian Secur Brokerage,EGS681D1C010,EGP,EASB
+egypt,Osool ESB Securities Broker,Osool ESB Securities Brokerage Co,EGS68181C014,EGP,EBSC
+egypt,El Arabia Engineering,El Arabia Engineering Industries,EGS3G111C015,EGP,EEII
+egypt,Egypt Aluminum,Egypt Aluminum,EGS3E181C010,EGP,EGAL
+egypt,Egyptian Satellite,Egyptian Satellite Co SAE,EGS48022C015,USD,EGSA
+egypt,Egyptian Int Tourism,Egyptian International Tourism,EGS70011C019,EGP,EITP
+egypt,EIUD,Egyptians For Invest&Urban Develop,EGS213S1C010,EGP,EIUD
+egypt,El Wadi Co.,El Wadi Co. Touristic Investement,EGS70R91C016,EGP,ELWA
+egypt,El Orouba,El Orouba Securities Brokerage,EGS681I1C015,EGP,EOSB
+egypt,El Ahram Co.,El Ahram Co. For Printing & Packing,EGS360A1C011,EGP,EPPK
+egypt,Faisal Islamic Bank - USD,Faisal Islamic Bank of Egypt - USD,EGS60322C012,USD,FAITA
+egypt,Golden Coast Co,Golden Coast Company,EGS70GV1C015,EGP,GOCO
+egypt,Golden Pyramids Plaza,Golden Pyramids Plaza,EGS70342C018,USD,GPPL
+egypt,Golden Textiles&Clothes Wool,Golden Textiles & Clothes Wool,EGS32161C019,EGP,GTWL
+egypt,Ismailia Develop&RE,Ismailia Development & Real Estate,EGS214Q1C011,EGP,IDRE
+egypt,Ismailia Food Industries,Ismailia National Food Industries,EGS01041C010,EGP,INFI
+egypt,Juhayna Food,Juhayna Food Industries,EGS30901C010,EGP,JUFO
+egypt,El Kahera El Watania Inv,El Kahera El Watania Investment,EGS69011C012,EGP,KWIN
+egypt,Middle East Glass,Middle East Glass Manufacturing,EGS3C001C012,EGP,MEGM
+egypt,Medical Packaging,Medical Packaging Company,EGS3C4L1C015,EGP,MEPA
+egypt,Minapharm Pharma,Minapharm Pharmaceuticals,EGS380G1C011,EGP,MIPH
+egypt,Marsa Marsa Alam Tourism,Marsa Marsa Alam Tourism Develop,EGS70P91C010,EGP,MMAT
+egypt,Memphis Pharma,Memphis Pharmaceuticals,EGS38351C010,EGP,MPCI
+egypt,Nile City Invest,Nile City Investment,EGS67391C010,EGP,NCIN
+egypt,National Drilling,National Drilling,EGS735N2C012,USD,NDRL
+egypt,NHPS,National Housing Prof. Syndicates,EGS65131C012,EGP,NHPS
+egypt,El Obour RE Inv,El Obour Real Estate Investment,EGS65551C011,EGP,OBRI
+egypt,Orascom Hotels,Orascom Hotels and Development SAE,EGS70321C012,EGP,ORHD
+egypt,Orascom Invest,Orascom Investment Holding SAE,EGS693V1C014,EGP,OIH
+egypt,Reacap Financial Invest,Reacap Financial Investments,EGS69191C012,EGP,REAC
+egypt,ALICO,Arab Real Estate Investment CO.,EGS65011C016,EGP,RREI
+egypt,Suez Bags,Suez Bags,EGS36041C019,EGP,SBAG
+egypt,SCTS,Sues Canal Co Technology Settling,EGS740C1C010,EGP,SCTS
+egypt,Sharm Dreams Co.,Sharm Dreams Co. Tourism Investment,EGS70571C012,EGP,SDTI
+egypt,Modern Shorouk,Modern Shorouk Printing & Packaging,EGS3A0A1C016,EGP,SMPP
+egypt,El Shams Pyramids,El Shams Pyramids Hotels&Touristic,EGS70H02C014,USD,SPHT
+egypt,Suez Cement,Suez Cement,EGS3C181C012,EGP,SUCE
+egypt,UNB-E,Union National Bank,EGS60051C017,EGP,UNBE
+egypt,National Bank of Kuwait,National Bank of Kuwait Egypt,EGS60171C013,EGP,NBKE
+egypt,Bitumode,Modern Company for water proofing,EGS3J041C011,EGP,WATP
+egypt,Wadi Kom Ombo Land,Wadi Kom Ombo Land Reclamation,EGS01071C017,EGP,WKOL
+egypt,Abu Dhabi Islamic Bank,Abu Dhabi Islamic Bank- Egypt,EGS60111C019,EGP,ADIB
+egypt,Arabian Cement Co SAE,Arabian Cement Co SAE,EGS3C0O1C016,EGP,ARCC
+egypt,Industrial Engineer Enterprises,Industrial Engineer Enterprises,EGS22171C010,EGP,IEEC
+egypt,Orascom Construction Ltd,Orascom Construction Ltd,EGS95001C011,EGP,ORAS
+egypt,Emaar Misr for Development SAE,Emaar Misr for Development SAE,EGS673Y1C015,EGP,EMFD
+egypt,Porto Group Holding SAE,Porto Group Holding SAE,EGS694A1C018,EGP,PORT
+egypt,Arabian Food Industries Co,Arabian Food Industries Co,EGS30031C016,EGP,DOMT
+egypt,Cleopatra Hospital,Cleopatra Hospital,EGS729J1C018,EGP,CLHO
+egypt,Edita Food,Edita Food Industries SAE,EGS305I1C011,EGP,EFID
+egypt,Gulf Arab Investment,Gulf Arab Investment Co SAE,EGS67152C016,USD,AGIN
+egypt,Holding Company for Fin Investments,Holding Company for Financial Investments SAE,EGS69071C016,EGP,HCFI
+egypt,Sabaa Intl Pharma and Chemical Industries,Sabaa International Company for Pharmaceutical and Chemical Industries SAE,EGS382M1C011,EGP,SIPC
+egypt,Souhag National Food Industries,Souhag National Company Food Industries SAE,EGS30301C013,EGP,SNFI
+egypt,Vodafone Egypt Telecom,Vodafone Egypt Telecommunications Co SAE,EGS48001C019,EGP,VODE
+egypt,Obour Land,Obour Land for Food Industries,EGS30AL1C012,EGP,OLFI
+egypt,Misr Fertilizers,Misr Fertilizers Production Co SAE,EGS39061C014,EGP,MFPC
+egypt,MM Group,MM Group for Industry,EGS75011C014,EGP,MTIE
+egypt,Raya Contact Center,Raya Contact Center Co,EGS74191C015,EGP,RACC
+egypt,Integrated Engineering,Integrated Engineering Group SAE,EGS3E3B1C014,EGP,INEG
+egypt,Arabian Rocks Plastic,Arabian Rocks Plastic Industries,EGS3J2D1C012,EGP,ARPI
+egypt,Genial Tours,Genial Tours,EGS415I1C018,EGP,GETO
+egypt,Port Saied  Agricultural,Port Saied for Agricultural Development and Construction,EGS521T1C016,EGP,PSAD
+egypt,Univert Food,Univert Food Industries,EGS513B1C016,EGP,UNFO
+egypt,Pharaoh tech,Pharaoh tech for control and communication systems,EGS49131C013,EGP,PTCC
+egypt,Misr Kuwait,Misr Kuwait Investment & Trading Co,EGS659O1C015,EGP,MKIT
+egypt,Al Moasher Programming,Al Moasher for Programming and Information Dissemination,EGS745W1C011,EGP,AMPI
+egypt,ICFC,International Company For Fertilizers & Chemicals,EGS520D1C015,EGP,ICFC
+egypt,BIG,Barbary Investment Group,EGS551D1C017,EGP,BIGP
+egypt,UTOPIA,UTOPIA,EGS655Y1C017,EGP,UTOP
+egypt,The Egyptian Modern Education,The Egyptian Modern Education Systems,EGS729F1C012,EGP,MOED
+egypt,Al Fanar Contracting,Al Fanar Contracting Construction Trade Import And Export Co,EGS221U1C016,EGP,FNAR
+egypt,ICMI,International company For Medical Industries,EGS3I0S1C019,EGP,ICMI
+egypt,Brothers Solidarity,Brothers Solidarity For Real Estate Investment & Food Security,EGS233E1C012,EGP,BSRF
+egypt,Vertika,Vertika,EGS74801C019,EGP,VERT
+egypt,Difco 2,International Dry Ice Company,EGS30AJ1C016,EGP,DIFC
+egypt,Arab Develop,Arab Development & Real Estate Investment,EGS65AN1C018,EGP,ADRI
+egypt,MB Engineering,M.B Engineering,EGS221V1C015,EGP,MBEN
+egypt,Ibnsina Pharma,Ibnsina Pharma Co,EGS512O1C012,EGP,ISPH
+egypt,Al Tawfeek Financial,Al Tawfeek Company for Financial Leasing,EGS676N1C015,EGP,ATLC
+egypt,BPE Financial,BPE Holding For Financial Investments SAE,EGS691T1C010,EGP,BINV
+egypt,CI Capital,CI Capital Holding Co SAE,EGS691D1C018,EGP,CICH
+egypt,Arab Co Asset Management,Arab Co for Asset Management and Development,EGS72AQ1C016,EGP,ACAMD
+egypt,Sarwa Capital,Sarwa Capital Holding for Financial Investments SAE,EGS738I1C018,EGP,SRWA
+egypt,Speed Medical,Speed Medical SAE,EGS73BR1C013,EGP,SPMD
+egypt,Fawry Banking and Payment,Fawry Banking and Payment,EGS745L1C014,EGP,FWRY
