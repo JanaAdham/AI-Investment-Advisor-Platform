@@ -46,8 +46,10 @@ for file in raw_folder.rglob("*.csv"):
     df["date"] = pd.to_datetime(df["date"], errors="coerce", utc=True)
 
 
-    df["date"] = df["date"].dt.strftime("%Y-%m-%d")
-    df["date"] = pd.to_datetime(df["date"], errors="coerce", utc=True)
+    # df["date"] = df["date"].dt.strftime("%Y-%m-%d")
+    # df["date"] = pd.to_datetime(df["date"], errors="coerce", utc=True)
+    # df["date"] = pd.to_datetime(df["date"], errors="coerce").dt.normalize()
+    df["date"] = pd.to_datetime(df["date"], errors="coerce").dt.date
     dataframes.append(df)
 
 if dataframes:
@@ -57,3 +59,4 @@ if dataframes:
 print(os.getcwd())
     
 print(df["date"].dtype)
+print(dataframes)
